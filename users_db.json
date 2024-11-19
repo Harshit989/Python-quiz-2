@@ -1,0 +1,60 @@
+{
+    "h@123": {
+        "name": "harsh",
+        "password": "1234",
+        "attempted_quizzes": {
+            "Operating System": [
+                [
+                    "What is a semaphore?",
+                    [
+                        "A. A data structure",
+                        "B. A communication tool",
+                        "C. A synchronization tool",
+                        "D. A memory management technique"
+                    ],
+                    "C"
+                ],
+                [
+                    "What is paging?",
+                    [
+                        "A. A CPU scheduling method",
+                        "B. A memory management technique",
+                        "C. A file management technique",
+                        "D. A threading model"
+                    ],
+                    "B"
+                ],
+                [
+                    "What is a system call?",
+                    [
+                        "A. A program request to the OS",
+                        "B. A type of interrupt",
+                        "C. A hardware failure",
+                        "D. None of the above"
+                    ],
+                    "A"
+                ],
+                [
+                    "What is a kernel?",
+                    [
+                        "A. The shell of the OS",
+                        "B. The core of the OS",
+                        "C. A hardware abstraction",
+                        "D. A program"
+                    ],
+                    "B"
+                ],
+                [
+                    "What is context switching?",
+                    [
+                        "A. A thread switching mechanism",
+                        "B. A deadlock prevention mechanism",
+                        "C. A process switching mechanism",
+                        "D. None of the above"
+                    ],
+                    "A"
+                ]
+            ]
+        }
+    }
+}
